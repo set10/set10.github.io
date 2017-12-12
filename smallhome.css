@@ -1,0 +1,116 @@
+<style>
+    * {
+        box-sizing: border-box;
+    }
+    body {
+        color: #878787;
+        background-color: lightblue;
+        margin: 0;
+        font-family: sans-serif;
+        text-align: center;
+    }
+    img {
+        max-width: 100%;
+    }
+    a {
+        text-decoration: none;
+    }
+    .nav-header {
+        background: #f0f5f5;
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .nav-div {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0px;
+        margin-right: 125px;
+        margin-top: 0px;
+    }
+    .logo-img {
+        width: 250px;
+        margin-right: 20px;
+        margin-left: 30px;
+    }
+    .nav-bar {
+        list-style-type: none;
+        display: flex;
+        text-align: right;
+        margin-left: 770px;
+    }
+    .nav-bar-link {
+        color: #878787;
+        font-size: 24px;
+        padding: 20px;
+        text-align: right;
+    }
+    .main-header {
+        height: 300px;
+        background: url("https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F9087ada3-20c4-4c06-95dd-567243d21b4e.jpg") no-repeat center;
+        background-size: cover;
+        margin-top: 200px;
+    }
+    .main-header-title {
+        text-align: left;
+        font-size: 1.5em;
+        color: #f7f8f9;
+        text-transform: uppercase;
+        font-weight: normal;
+        padding-left: 10px;
+        text-shadow: 3px 2px grey;
+        margin-top: 0px;
+    }
+    .main-header-intro {
+        line-height: 1.5em;
+        width: 50%;
+        margin: auto;
+        padding: 40px;
+        color: white;
+        text-align: justify;
+    }
+    .intro {
+        width: 60%;
+        margin: auto;
+    }
+    .button {
+        display: block;
+        background-color: lightgreen;
+        box-shadow: 2px 2px 2px grey;
+        width: 100%;
+        margin-top: 10px;
+        color: grey;
+        padding: 15px;
+        font-size: 24px;
+        text-decoration: none;
+        text-align: center;
+        margin-right: 0px;
+        margin-left: 50px;
+    }
+    .box {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-left: 0px;
+    }
+    .card {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        background-color: #F0F8FF;
+        box-shadow: 4px 4px 2px grey;
+        border: 1px grey solid;
+        border-radius: 5px;
+        margin: 15px;
+        margin-top: 40px;
+        margin-left: 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer {
+        height: 40px;
+        background: #f0f5f5;
+        padding: 5px;
+    }
+</style>00px;

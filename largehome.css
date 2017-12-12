@@ -1,0 +1,106 @@
+<style>
+    * {
+        box-sizing: border-box;
+    }
+    body {
+        color: #878787;
+        margin: 0;
+        font-family: sans-serif;
+        text-align: center;
+        background-color: beige;
+    }
+    img {
+        max-width: 100%;
+    }
+    a {
+        text-decoration: none;
+    }
+    .nav-header {
+        background: #f0f5f5;
+        height: 100px;
+        display: flex;
+        margin: auto;
+    }
+    .nav-div {
+        margin: auto;
+        display: flex;
+        margin-left: 0px;
+    }
+    .logo-img {
+        width: 250px;
+        margin-right: 20px;
+    }
+    .nav-bar {
+        list-style-type: none;
+        display: flex;
+        text-align: right;
+        margin-left: 770px;
+    }
+    .nav-bar-link {
+        color: #878787;
+        font-size: 24px;
+        padding: 20px;
+        text-align: right;
+    }
+    .main-header {
+        height: 550px;
+        background: url("https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F9087ada3-20c4-4c06-95dd-567243d21b4e.jpg") no-repeat center;
+        background-size: cover;
+    }
+    .main-header-title {
+        text-align: left;
+        font-size: 2.5em;
+        color: #f7f8f9;
+        text-transform: uppercase;
+        font-weight: normal;
+        padding-left: 10px;
+        text-shadow: 3px 2px grey;
+        margin-top: 0px;
+    }
+    .main-header-intro {
+        line-height: 1.5em;
+        width: 50%;
+        margin: auto;
+        padding: 40px;
+        color: white;
+        text-align: justify;
+    }
+    .intro {
+        width: 60%;
+        margin: auto;
+    }
+    .button {
+        display: block;
+        background-color: lightgrey;
+        box-shadow: 2px 2px 2px grey;
+        width: 285px;
+        margin: auto;
+        margin-top: 10px;
+        color: black;
+        padding: 15px;
+        font-size: 24px;
+        text-decoration: none;
+        text-align: center
+    }
+    .box {
+        display: flex;
+        width: 80%;
+        margin: auto;
+    }
+    .card {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        background-color: #F0F8FF;
+        box-shadow: 4px 4px 2px grey;
+        border: 1px grey solid;
+        border-radius: 5px;
+        margin: 15px;
+        margin-top: 40px;
+    }
+    .footer {
+        height: 40px;
+        background: #f0f5f5;
+        padding: 5px;
+    }
+</style>00px;
